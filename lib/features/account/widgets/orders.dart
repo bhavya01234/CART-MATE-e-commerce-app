@@ -73,13 +73,13 @@ class _OrdersState extends State<Orders> {
             itemCount: orders!.length,
             itemBuilder: (context, index) {
               return GestureDetector(
-                onTap: () {
-                  // Navigator.pushNamed(
-                  //   context,
-                  //   OrderDetailScreen.routeName,
-                  //   arguments: orders![index],
-                  // );
-                },
+                // onTap: () {
+                //   Navigator.pushNamed(
+                //     context,
+                //     OrderDetailScreen.routeName,
+                //     arguments: orders![index],
+                //   );
+                // },
                 child: SingleProduct(
                   image: orders![index].products[0].images[0],
                 ),

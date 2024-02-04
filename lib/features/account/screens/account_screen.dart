@@ -54,7 +54,7 @@ class AccountScreen extends StatelessWidget {
            SizedBox(height: 10),
            TopButtons(),
            SizedBox(height: 20),
-           Orders(),
+           // Orders(),
         ],
       ),
     );
