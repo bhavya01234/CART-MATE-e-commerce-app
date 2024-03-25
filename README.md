@@ -1,6 +1,6 @@
-# amazon_two
+# Cart Mate
 
-A new Flutter project.
+E-Commerce application with Node.js, Express.js, and MongoDB for backend paired with Flutter UI for frontend forming a complete full-stack configuration.
 
 ## Getting Started
 
